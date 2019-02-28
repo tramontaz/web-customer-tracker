@@ -2,6 +2,4 @@
 
 Used technologies:
 
-Spring + Hibernate
-JSP
-MySQL
+Spring + Hibernate, JSP, MySQL
